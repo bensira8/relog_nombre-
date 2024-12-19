@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: blue;
+}
+
+#digitalClock {
+  font-size: 24px; /* Reducido el tamaño de la fuente */
+  color: white;
+}
+
+#brand {
+  font-size: 18px; /* Reducido el tamaño de la fuente */
+  color: white;
+  margin-top: 20px;
+}
